@@ -7,7 +7,7 @@ Given n amounts of numbers rearranged as the following:
 18 &emsp;   5 &emsp; &nbsp;   4 &emsp; &nbsp;   3 &emsp; &nbsp; 12 \
 19 &emsp;   6 &emsp; &nbsp;   1 &emsp; &nbsp;   2 &emsp; &nbsp; 11 \
 20 &emsp;   7 &emsp; &nbsp;   8 &emsp; &nbsp;   9 &emsp; &nbsp; 10 \
-21&emsp;    22 &emsp;   23 &emsp;   24 &emsp; 25
+21&emsp;    22 &emsp;   23 &emsp;   24 &emsp; &nbsp; 25
 
 We change each prime value into "x"
 
